@@ -25,7 +25,7 @@ my $count = 0;
 sub show_help
 {
 print <<HELP;
-Usage ./scrobbler.pl -u <user> -p <password> -d <directory_or_file> [-t timeout] [-help]
+Usage ./$0 -u <user> -p <password> -d <directory_or_file> [-t timeout] [-help]
 The script scrobbles random file from the directory (it may use a single file)
 with a specified interval.
 -u <user>           - your login on las.fm
