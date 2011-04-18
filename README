@@ -1,0 +1,4 @@
+Last.fm scrobbler on perl.
+This script just sends info to last.fm of random track from directory you point.
+Nothing else.
+:>
